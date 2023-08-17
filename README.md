@@ -1,2 +1,2 @@
-# Netflix
- Clone netflix - Django
+# Pyflix
+ Réplica do Netflix
